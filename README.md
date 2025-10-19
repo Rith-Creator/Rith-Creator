@@ -9,11 +9,11 @@ Aspiring cybersecurity professional seeking to enhance practical skills in ethic
 
 | Project                                         | Tools Used         |
 |-----------------------------------------------|----------------------------|
-| OSINT Reconissancee & Digital Footprint Analysis          | Linux, Python, Bash|
-| Failed RDP to IP Geolocation Information | SIEM, Micosoft Sentinel, Virtual Machine|
-| Python Keylogger         | Blank|
-| Blank      | Blank|
-| Blank                  | Blank|
+| OSINT Reconissancee & Digital Footprint Analysis | Linux, Python, Bash |
+| Failed RDP to IP Geolocation Information | SIEM, Micosoft Sentinel, Virtual Machine |
+| Python Keylogger | Python |
+| Blank | Blank |
+| Blank | Blank |
 | Blank | Blank |
 
 ## Tools
