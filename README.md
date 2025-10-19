@@ -7,10 +7,10 @@ Aspiring cybersecurity professional seeking to enhance practical skills in ethic
 
 ## Projects
 
-| Project                                         | Repository         |
+| Project                                         | Tools Used         |
 |-----------------------------------------------|----------------------------|
-| Osint Reconissancee & Digital Footprint Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Failed RDP to IP Geolocation Information | <a href="https://google.com">Detection Lab</a>|
+| OSINT Reconissancee & Digital Footprint Analysis          | Linux, Python, Bash|
+| Failed RDP to IP Geolocation Information | SIEM, Micosoft Sentinel, Virtual Machine|
 | Python Keylogger         | Blank|
 | Blank      | Blank|
 | Blank                  | Blank|
