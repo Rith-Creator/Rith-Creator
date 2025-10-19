@@ -5,9 +5,9 @@ Hi! I’m an undergraduate student passionate about cybersecurity. I enjoy explo
 ## Objective
 Aspiring cybersecurity professional seeking to enhance practical skills in ethical hacking, network security, and threat analysis through hands-on projects and collaborative learning.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Project                                         | Repository         |
 |-----------------------------------------------|----------------------------|
 | Osint Reconissancee & Digital Footprint Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Failed RDP to IP Geolocation Information | <a href="https://google.com">Detection Lab</a>|
