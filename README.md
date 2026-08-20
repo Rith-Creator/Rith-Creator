@@ -6,17 +6,21 @@ Hi! I’m an undergraduate student passionate about cybersecurity. I enjoy explo
 Aspiring cybersecurity professional seeking to enhance practical skills in ethical hacking, network security, and threat analysis through hands-on projects and collaborative learning.
 
 ## Projects
-
 | Project                                         | Tools Used         |
 |-----------------------------------------------|----------------------------|
 | OSINT Reconnaissance & Digital Footprint Analysis | Linux, Python, Bash |
-| Active Directory & PowerShell Automation Lab | Windows Server, Powershell, VirtualBox, Active Directory (AD) |
+| [Active Directory & PowerShell Automation Lab](https://github.com/YOUR-USERNAME/ad-powershell-lab) | Windows Server, PowerShell, VirtualBox, Active Directory (AD) |
 | Failed RDP to IP Geolocation Information | SIEM, Microsoft Sentinel, Virtual Machine |
 | Python Keylogger | Python |
-| Blank | Blank |
-| Blank | Blank |
 
 ## Tools
+### Systems Administration
+<div>
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
 
 ### Network
 <div>
