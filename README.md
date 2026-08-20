@@ -1,6 +1,5 @@
 # Hello, I'm Rith!
-
-Hi! I’m an undergraduate student passionate about cybersecurity. I enjoy exploring ethical hacking, network security, and building projects that strengthen digital defenses. This GitHub showcases my experiments, learning projects, and contributions in the cybersecurity space.
+Hi! I'm an undergraduate student passionate about cybersecurity. I enjoy exploring ethical hacking, network security, and building projects that strengthen digital defenses. This GitHub showcases my experiments, learning projects, and contributions in the cybersecurity space.
 
 ## Objective
 Aspiring cybersecurity professional seeking to enhance practical skills in ethical hacking, network security, and threat analysis through hands-on projects and collaborative learning.
@@ -9,9 +8,9 @@ Aspiring cybersecurity professional seeking to enhance practical skills in ethic
 | Project                                         | Tools Used         |
 |-----------------------------------------------|----------------------------|
 | OSINT Reconnaissance & Digital Footprint Analysis | Linux, Python, Bash |
-| [Active Directory & PowerShell Automation Lab]([https://github.com/YOUR-USERNAME/ad-powershell-lab](https://github.com/Rith-Creator/Active-Directory-PowerShell-Automation-Lab)) | Windows Server, PowerShell, VirtualBox, Active Directory (AD) |
+| [Active Directory & PowerShell Automation Lab](https://github.com/Rith-Creator/Active-Directory-PowerShell-Automation-Lab) | Windows Server, PowerShell, VirtualBox, Active Directory (AD) |
 | Failed RDP to IP Geolocation Information | SIEM, Microsoft Sentinel, Virtual Machine |
-| Helpdesk Ticketing System | Python, Djgano, Flask, SQLite |
+| Python Keylogger | Python |
 
 ## Tools
 ### Systems Administration
@@ -24,9 +23,9 @@ Aspiring cybersecurity professional seeking to enhance practical skills in ethic
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-0096D6?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DNS_Troubleshooting-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NAT_Networking-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ipconfig%2Fping%2Fnslookup-000000?&style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
 </div>
 
 ### Endpoint
