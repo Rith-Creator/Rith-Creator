@@ -11,7 +11,7 @@ Aspiring cybersecurity professional seeking to enhance practical skills in ethic
 | OSINT Reconnaissance & Digital Footprint Analysis | Linux, Python, Bash |
 | [Active Directory & PowerShell Automation Lab](https://github.com/YOUR-USERNAME/ad-powershell-lab) | Windows Server, PowerShell, VirtualBox, Active Directory (AD) |
 | Failed RDP to IP Geolocation Information | SIEM, Microsoft Sentinel, Virtual Machine |
-| Python Keylogger | Python |
+| Helpdesk Ticketing System | Python, Djgano, Flask, SQLite |
 
 ## Tools
 ### Systems Administration
