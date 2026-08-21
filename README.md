@@ -1,14 +1,16 @@
 # Hello, I'm Rith!
-Hi! I'm an undergraduate student passionate about cybersecurity. I enjoy exploring ethical hacking, network security, and building projects that strengthen digital defenses. This GitHub showcases my experiments, learning projects, and contributions in the cybersecurity space.
+Hi! I'm an undergraduate student passionate about IT and cybersecurity. I enjoy exploring ethical hacking, network security, systems administration, and building projects that strengthen digital defenses. This GitHub showcases my experiments, learning projects, and contributions across IT and cybersecurity.
+
 ## Objective
-Aspiring cybersecurity professional seeking to enhance practical skills in ethical hacking, network security, and threat analysis through hands-on projects and collaborative learning.
+Aspiring IT and cybersecurity professional seeking to build practical skills in systems administration, network security, and threat analysis through hands-on projects and collaborative learning.
+
 ## Projects
 | Project                                         | Tools Used         |
 |-----------------------------------------------|----------------------------|
 | OSINT Reconnaissance & Digital Footprint Analysis | Linux, Python, Bash |
 | [Active Directory & PowerShell Automation Lab](https://github.com/Rith-Creator/Active-Directory-PowerShell-Automation-Lab) | Windows Server, PowerShell, VirtualBox, Active Directory (AD) |
-| Failed RDP to IP Geolocation Information | SIEM, Microsoft Sentinel, Virtual Machine |
 | [IT Helpdesk Ticketing & Resolution System](https://github.com/Rith-Creator/IT-Helpdesk-Ticketing-Resolution-System) | Python, Flask, SQLite, HTML/CSS |
+
 ## Tools
 ### Systems Administration
 <div>
@@ -47,8 +49,5 @@ Aspiring cybersecurity professional seeking to enhance practical skills in ethic
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
