@@ -7,8 +7,8 @@ Aspiring cybersecurity professional seeking to enhance practical skills in ethic
 |-----------------------------------------------|----------------------------|
 | OSINT Reconnaissance & Digital Footprint Analysis | Linux, Python, Bash |
 | [Active Directory & PowerShell Automation Lab](https://github.com/Rith-Creator/Active-Directory-PowerShell-Automation-Lab) | Windows Server, PowerShell, VirtualBox, Active Directory (AD) |
-| [Failed RDP to IP Geolocation Information](https://github.com/Rith-Creator/IT-Helpdesk-Ticketing-Resolution-System)| SIEM, Microsoft Sentinel, Virtual Machine |
-| IT Helpdesk Ticket Simulator | Python, Flask, SQLite, HTML/CSS |
+| Failed RDP to IP Geolocation Information | SIEM, Microsoft Sentinel, Virtual Machine |
+| [IT Helpdesk Ticketing & Resolution System](https://github.com/Rith-Creator/IT-Helpdesk-Ticketing-Resolution-System) | Python, Flask, SQLite, HTML/CSS |
 ## Tools
 ### Systems Administration
 <div>
