@@ -50,4 +50,5 @@ Aspiring IT and cybersecurity professional seeking to build practical skills in 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://nrffoundation.org/rise-up"><img src="https://img.shields.io/badge/-NRF_Customer_Service_%26_Sales-F47920?&style=for-the-badge&logo=data:image/png;base64,&logoColor=white" /></a>
 </div>
